@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ghassenelkamel.github.io/portfolio-content/schemas/about.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "updatedAt",
+    "headline",
+    "subtitle",
+    "summary",
+    "specialties",
+    "currently",
+    "goals",
+    "email",
+    "site",
+    "github"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "updatedAt": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "headline": { "type": "string", "minLength": 1 },
+    "subtitle": { "type": "string", "minLength": 1 },
+    "summary": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "specialties": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "currently": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "goals": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "email": { "type": "string", "format": "email" },
+    "site": { "type": "string", "format": "uri" },
+    "github": { "type": "string", "format": "uri" }
+  }
+}

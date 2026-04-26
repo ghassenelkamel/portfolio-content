@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-26T10:00:00Z",
+  "headline": "Ghassen El Kamel",
+  "subtitle": "IoT & Systems Engineer · Backend · Infrastructure",
+  "summary": [
+    "I’m an IoT and Software Systems Engineer passionate about building secure, scalable, and efficient infrastructures for connected devices and platforms.",
+    "My work sits at the intersection of embedded systems, backend development, and network security, transforming real-world hardware into reliable digital ecosystems."
+  ],
+  "specialties": [
+    "Designing IoT architectures with secure data flow from device to cloud",
+    "Developing back-end services in Go for automation, monitoring, and data processing",
+    "Integrating secure communication layers — VPN, MQTTS, and TLS",
+    "Optimizing workflows and systems to improve uptime and efficiency",
+    "Building dashboards and tools to empower clients with actionable insights"
+  ],
+  "currently": [
+    "Building Go-based IoT backbones and secure APIs for data exchange",
+    "Setting up VPN and MQTTS infrastructures for secure remote communication",
+    "Designing modular dashboards for real-time monitoring and control",
+    "Experimenting with lightweight orchestration and observability tools",
+    "Expanding my knowledge in distributed systems and resilient architecture"
+  ],
+  "goals": [
+    "Contribute to open-source infrastructure and IoT projects",
+    "Advance toward architect-level expertise in backend and platform engineering",
+    "Continue mastering security, scalability, and maintainability in large systems",
+    "Build platforms that connect devices, people, and insights seamlessly"
+  ],
+  "email": "Ghassenelkamel@live.fr",
+  "site": "https://ghassenelkamel.fr",
+  "github": "https://github.com/ghassenelkamel"
+}
