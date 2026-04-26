@@ -7,6 +7,14 @@
     "I’m an IoT and Software Systems Engineer passionate about building secure, scalable, and efficient infrastructures for connected devices and platforms.",
     "My work sits at the intersection of embedded systems, backend development, and network security, transforming real-world hardware into reliable digital ecosystems."
   ],
+  "keywords": [
+    "IoT architecture",
+    "Go backend",
+    "Embedded Linux",
+    "MQTT / TLS",
+    "VPN networking",
+    "Automation APIs"
+  ],
   "specialties": [
     "Designing IoT architectures with secure data flow from device to cloud",
     "Developing back-end services in Go for automation, monitoring, and data processing",
