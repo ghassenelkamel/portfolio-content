@@ -12,9 +12,9 @@
       "dates": "Mai 2024 - Présent · 2 ans 1 mois",
       "location": "Sur site",
       "summary": [
-        "Participe au développement d'une plateforme client avec un accent fort sur la fiabilité, la sécurité et la continuité opérationnelle.",
-        "Travaille sur des flux de récupération sécurisée des données, l'intégration NAS et la synchronisation des alarmes et des données critiques.",
-        "Contribue aux livraisons IoT/backend de bout en bout en améliorant les pipelines de données, le monitoring et les intégrations sécurisées."
+        "Conception et évolution d'une plateforme client avec un fort niveau d'exigence sur la fiabilité, la sécurité et la continuité de service.",
+        "Mise en place de flux de récupération sécurisée des données, intégration NAS et mécanismes de synchronisation pour les alarmes et les données critiques.",
+        "Contribution aux livraisons IoT/backend de bout en bout via l'amélioration des pipelines de données, du monitoring et des intégrations sécurisées."
       ],
       "bullets": ["Go", "Plateforme IoT", "Récupération sécurisée", "Intégration NAS", "Synchronisation des alarmes", "Monitoring", "Infrastructure"],
       "image": "assets/spade-integrity.svg",
@@ -27,8 +27,8 @@
       "dates": "Mars 2023 - Sept 2023 · 7 mois",
       "location": "Rennes, Bretagne, France · Sur site",
       "summary": [
-        "A développé des fonctionnalités mobiles et des workflows connectés au backend dans un contexte de livraison en stage.",
-        "A contribué à la qualité des releases et à la rapidité d'implémentation via des pratiques d'équipe structurées et une bonne discipline Git."
+        "Développement de fonctionnalités mobiles et de workflows connectés au backend dans un contexte de livraison en stage.",
+        "Contribution à la qualité des releases et à la rapidité d'implémentation grâce à des pratiques d'équipe structurées et une discipline Git rigoureuse."
       ],
       "bullets": ["GitLab", "Git", "React Native", "Intégration API", "Livraison produit", "Performance", "Collaboration équipe"],
       "image": "assets/p7.jpg",
@@ -41,8 +41,8 @@
       "dates": "Sep 2022 – Mar 2023",
       "location": "Le Mans, France · Sur site",
       "summary": [
-        "A travaillé sur l'implémentation de l'API PSA Crypto dans un contexte embarqué avec fortes contraintes sécurité.",
-        "A livré du code C avec des workflows Git structurés et des outils de validation sous Linux."
+        "Implémentation de l'API PSA Crypto dans un contexte embarqué avec de fortes contraintes de sécurité.",
+        "Développement en C avec des workflows Git structurés et des outils de validation sous Linux."
       ],
       "bullets": ["C", "PSA Crypto", "Sécurité embarquée", "Outils Linux"],
       "image": "assets/p6.jpg",
@@ -55,8 +55,8 @@
       "dates": "Jun 2022 – Aug 2022",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
-        "A construit un workflow mobile pour enregistrer et valider plusieurs tests industriels sur le terrain.",
-        "A implémenté des modèles de données par test et des règles de validation pour améliorer la cohérence des rapports."
+        "Conception d'un workflow mobile pour l'enregistrement et la validation de plusieurs tests industriels sur le terrain.",
+        "Implémentation de modèles de données par test et de règles de validation pour améliorer la cohérence des rapports."
       ],
       "bullets": ["Flutter", "Node.js", "Flux de validation", "Docker"],
       "image": "assets/p5.jpg",
@@ -69,8 +69,8 @@
       "dates": "Jul 2021 – Aug 2021",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
-        "A automatisé la collecte et le stockage de données météo pour un suivi continu.",
-        "A développé des modules UI et des intégrations API avec parsing JSON et persistance backend."
+        "Automatisation de la collecte et du stockage de données météo pour un suivi continu.",
+        "Développement de modules UI et d'intégrations API avec parsing JSON et persistance backend."
       ],
       "bullets": ["Java", "JavaFX", "Intégration API", "Automatisation"],
       "image": "assets/p1.jpg",
@@ -83,8 +83,8 @@
       "dates": "Feb 2020 – May 2020",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
-        "A développé des workflows LabView pour la détection et la qualification de composants électroniques.",
-        "A entraîné un modèle CNN et déployé une version légère d'inférence sur Raspberry Pi."
+        "Développement de workflows LabView pour la détection et la qualification de composants électroniques.",
+        "Entraînement d'un modèle CNN et déploiement d'une version légère d'inférence sur Raspberry Pi."
       ],
       "bullets": ["LabView", "CNN", "TensorFlow Lite", "Raspberry Pi", "SolidWorks"],
       "image": "assets/p2.jpg",
@@ -98,8 +98,8 @@
       "dates": "Jan 2019 – Feb 2019",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
-        "A développé des solutions de capteurs Arduino avec communication Bluetooth.",
-        "A créé des applications Android compagnon avec synchronisation live des données."
+        "Développement de solutions de capteurs Arduino avec communication Bluetooth.",
+        "Création d'applications Android compagnon avec synchronisation temps réel des données."
       ],
       "bullets": ["Arduino", "Bluetooth", "MIT App Inventor", "Firebase"],
       "image": "assets/p3.jpg",
@@ -112,8 +112,8 @@
       "dates": "Jan 2018 – Feb 2018",
       "location": "Nabeul, Tunisie · Sur site",
       "summary": [
-        "A réalisé un jeu éducatif Unity axé sur l'apprentissage des directions pour enfants.",
-        "A coordonné assets, pacing des niveaux et polish gameplay avec une petite équipe."
+        "Réalisation d'un jeu éducatif Unity axé sur l'apprentissage des directions pour enfants.",
+        "Coordination des assets, du pacing des niveaux et du polish gameplay au sein d'une petite équipe."
       ],
       "bullets": ["Unity", "Gameplay design", "Collaboration équipe", "Bases C++"],
       "image": "assets/p4.jpg",
