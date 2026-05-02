@@ -31,6 +31,7 @@ All files are validated in CI against JSON Schema before merge.
 - Never remove required fields.
 - Keep IDs stable once published (`skills.items[].id`, `experience.items[].id`).
 - For experience images, use either:
+  - site asset paths (example: `/assets/p7.jpg`),
   - repo asset paths (example: `assets/spade-integrity.svg`), or
   - full HTTPS URLs.
 - Keep EN files as defaults (`*.json`) and FR files with `.fr.json` suffix.
