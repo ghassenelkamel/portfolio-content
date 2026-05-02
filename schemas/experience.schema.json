@@ -37,7 +37,10 @@
           },
           "image": {
             "type": "string",
-            "pattern": "^/.*"
+            "anyOf": [
+              { "pattern": "^assets/.+" },
+              { "format": "uri" }
+            ]
           },
           "proofUrl": {
             "type": "string",

@@ -1,108 +1,38 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-26T10:00:00Z",
+  "updatedAt": "2026-05-02T18:00:00Z",
   "eyebrow": "Experience",
   "title": "Professional Journey",
-  "description": "Select an experience to explore scope, impact, and tools used.",
+  "description": "Current and recent roles with focus on impact and responsibilities.",
   "items": [
+    {
+      "id": "spade-integrity-2024",
+      "role": "IoT Engineer",
+      "org": "Spade Integrity",
+      "dates": "May 2024 - Present · 2 yrs 1 mo",
+      "location": "On-site",
+      "summary": [
+        "Contribute to client platform development with focus on reliability, security, and operational continuity.",
+        "Work on secure data recovery flows, NAS integration, and synchronization systems for alarms and critical data.",
+        "Support end-to-end IoT/backend delivery by improving data pipelines, monitoring quality, and secure service integrations."
+      ],
+      "bullets": ["Go", "IoT platform", "Secure data recovery", "NAS integration", "Alarm synchronization", "Monitoring", "Infrastructure"],
+      "image": "assets/spade-integrity.svg",
+      "sortOrder": 10
+    },
     {
       "id": "bookbeo-2023",
       "role": "Full Stack Mobile Developer",
       "org": "bookBeo",
-      "dates": "Mar 2023 – Present",
-      "location": "Rennes, France · On-site",
+      "dates": "Mar 2023 - Sep 2023 · 7 mos",
+      "location": "Rennes, Brittany, France · On-site",
       "summary": [
-        "Led React Native features with a backend-aware approach to keep product behavior stable end-to-end.",
-        "Focused on runtime performance, release quality, and reliable delivery across fast iteration cycles."
+        "Developed mobile product features and backend-connected workflows during internship delivery cycles.",
+        "Collaborated on release quality and implementation speed with structured team practices and version control discipline."
       ],
-      "bullets": ["React Native", "Product delivery", "Performance", "Feature ownership"],
-      "image": "/assets/p7.jpg",
-      "sortOrder": 10
-    },
-    {
-      "id": "st-2022",
-      "role": "Security Project Team Member",
-      "org": "STMicroelectronics",
-      "dates": "Sep 2022 – Mar 2023",
-      "location": "Le Mans, France · On-site",
-      "summary": [
-        "Worked on PSA Crypto API implementation under embedded constraints and strict security requirements.",
-        "Delivered C code with structured Git workflows and Linux-based validation tooling."
-      ],
-      "bullets": ["C", "PSA Crypto", "Embedded security", "Linux tooling"],
-      "image": "/assets/p6.jpg",
+      "bullets": ["GitLab", "Git", "React Native", "API integration", "Product delivery", "Performance", "Team collaboration"],
+      "image": "assets/bookbeo.svg",
       "sortOrder": 20
-    },
-    {
-      "id": "falcon-2022",
-      "role": "Mobile Developer Experience",
-      "org": "Falcon Inspection & Services",
-      "dates": "Jun 2022 – Aug 2022",
-      "location": "Tunis, Tunisia · On-site",
-      "summary": [
-        "Built a mobile workflow to record and validate multiple industrial tests in the field.",
-        "Implemented per-test data models and rule validation to improve consistency of reports."
-      ],
-      "bullets": ["Flutter", "Node.js", "Validation flows", "Docker"],
-      "image": "/assets/p5.jpg",
-      "sortOrder": 30
-    },
-    {
-      "id": "dall-2021",
-      "role": "Weather Monitoring & Data Storage",
-      "org": "DigiArtLivingLab",
-      "dates": "Jul 2021 – Aug 2021",
-      "location": "Tunis, Tunisia · On-site",
-      "summary": [
-        "Automated weather data collection and storage pipelines for continuous monitoring.",
-        "Built UI modules and API integrations with JSON parsing and backend persistence."
-      ],
-      "bullets": ["Java", "JavaFX", "API integration", "Automation"],
-      "image": "/assets/p1.jpg",
-      "sortOrder": 40
-    },
-    {
-      "id": "sagemcom-2020",
-      "role": "Electronic Components Validation",
-      "org": "SAGEMCOM",
-      "dates": "Feb 2020 – May 2020",
-      "location": "Tunis, Tunisia · On-site",
-      "summary": [
-        "Built LabView workflows for detection and qualification of electronic components.",
-        "Trained a CNN model and deployed a lightweight inference variant on Raspberry Pi hardware."
-      ],
-      "bullets": ["LabView", "CNN", "TensorFlow Lite", "Raspberry Pi", "SolidWorks"],
-      "image": "/assets/p2.jpg",
-      "proofUrl": "https://drive.google.com/file/d/1HEhe-tPGshCTeTujwacxx_Wc-qHJIF3j/view",
-      "sortOrder": 50
-    },
-    {
-      "id": "dall-2019",
-      "role": "IoT Station + Mobile Apps",
-      "org": "DigiArtLivingLab",
-      "dates": "Jan 2019 – Feb 2019",
-      "location": "Tunis, Tunisia · On-site",
-      "summary": [
-        "Developed Arduino-based sensing builds with Bluetooth communication.",
-        "Created Android companion apps and live data sync under tight timeline constraints."
-      ],
-      "bullets": ["Arduino", "Bluetooth", "MIT App Inventor", "Firebase"],
-      "image": "/assets/p3.jpg",
-      "sortOrder": 60
-    },
-    {
-      "id": "dall-2018",
-      "role": "Educational Game Development",
-      "org": "DigiArtLivingLab",
-      "dates": "Jan 2018 – Feb 2018",
-      "location": "Nabeul, Tunisia · On-site",
-      "summary": [
-        "Built a Unity educational game focused on directional learning for children.",
-        "Coordinated assets, level pacing, and gameplay polish with a small collaborative team."
-      ],
-      "bullets": ["Unity", "Gameplay design", "Team collaboration", "C++ basics"],
-      "image": "/assets/p4.jpg",
-      "sortOrder": 70
     }
   ]
 }

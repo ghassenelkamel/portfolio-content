@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-02T18:00:00Z",
+  "eyebrow": "Compétences",
+  "title": "Moniteur de Capacités",
+  "description": "Suivi des niveaux de maîtrise sur les outils et technologies clés.",
+  "items": [
+    { "id": "go", "name": "Go (Backend)", "level": 88, "order": 1 },
+    { "id": "mqtt-vpn-tls", "name": "MQTT / VPN / TLS", "level": 86, "order": 2 },
+    { "id": "linux", "name": "Linux / Unix", "level": 86, "order": 3 },
+    { "id": "postgresql", "name": "PostgreSQL", "level": 82, "order": 4 },
+    { "id": "docker", "name": "Docker", "level": 78, "order": 5 },
+    { "id": "javascript-svelte", "name": "JavaScript / Svelte", "level": 78, "order": 6 },
+    { "id": "c-cpp", "name": "C / C++", "level": 72, "order": 7 },
+    { "id": "python", "name": "Python", "level": 70, "order": 8 }
+  ]
+}

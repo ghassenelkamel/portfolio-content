@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-02T18:00:00Z",
+  "eyebrow": "Expérience",
+  "title": "Parcours Professionnel",
+  "description": "Rôles actuels et récents avec un focus sur l'impact et les responsabilités.",
+  "items": [
+    {
+      "id": "spade-integrity-2024",
+      "role": "Ingénieur IoT",
+      "org": "Spade Integrity",
+      "dates": "Mai 2024 - Présent · 2 ans 1 mois",
+      "location": "Sur site",
+      "summary": [
+        "Participe au développement d'une plateforme client avec un accent fort sur la fiabilité, la sécurité et la continuité opérationnelle.",
+        "Travaille sur des flux de récupération sécurisée des données, l'intégration NAS et la synchronisation des alarmes et des données critiques.",
+        "Contribue aux livraisons IoT/backend de bout en bout en améliorant les pipelines de données, le monitoring et les intégrations sécurisées."
+      ],
+      "bullets": ["Go", "Plateforme IoT", "Récupération sécurisée", "Intégration NAS", "Synchronisation des alarmes", "Monitoring", "Infrastructure"],
+      "image": "assets/spade-integrity.svg",
+      "sortOrder": 10
+    },
+    {
+      "id": "bookbeo-2023",
+      "role": "Développeur Mobile Full Stack",
+      "org": "bookBeo",
+      "dates": "Mars 2023 - Sept 2023 · 7 mois",
+      "location": "Rennes, Bretagne, France · Sur site",
+      "summary": [
+        "A développé des fonctionnalités mobiles et des workflows connectés au backend dans un contexte de livraison en stage.",
+        "A contribué à la qualité des releases et à la rapidité d'implémentation via des pratiques d'équipe structurées et une bonne discipline Git."
+      ],
+      "bullets": ["GitLab", "Git", "React Native", "Intégration API", "Livraison produit", "Performance", "Collaboration équipe"],
+      "image": "assets/bookbeo.svg",
+      "sortOrder": 20
+    }
+  ]
+}

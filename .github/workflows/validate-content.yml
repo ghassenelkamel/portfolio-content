@@ -23,11 +23,23 @@ jobs:
       - name: Validate about
         run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/about.schema.json -d content/about.json
 
+      - name: Validate about (fr)
+        run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/about.schema.json -d content/about.fr.json
+
       - name: Validate skills
         run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/skills.schema.json -d content/skills.json
+
+      - name: Validate skills (fr)
+        run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/skills.schema.json -d content/skills.fr.json
 
       - name: Validate experience
         run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/experience.schema.json -d content/experience.json
 
+      - name: Validate experience (fr)
+        run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/experience.schema.json -d content/experience.fr.json
+
       - name: Validate contact
         run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/contact.schema.json -d content/contact.json
+
+      - name: Validate contact (fr)
+        run: ajv validate --spec=draft2020 -c ajv-formats -s schemas/contact.schema.json -d content/contact.fr.json
