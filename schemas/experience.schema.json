@@ -38,6 +38,7 @@
           "image": {
             "type": "string",
             "anyOf": [
+              { "pattern": "^/assets/.+" },
               { "pattern": "^assets/.+" },
               { "format": "uri" }
             ]

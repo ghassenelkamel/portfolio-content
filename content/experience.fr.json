@@ -3,7 +3,7 @@
   "updatedAt": "2026-05-02T18:00:00Z",
   "eyebrow": "Expérience",
   "title": "Parcours Professionnel",
-  "description": "Rôles actuels et récents avec un focus sur l'impact et les responsabilités.",
+  "description": "Sélectionnez une expérience pour explorer le scope, l'impact et les outils utilisés.",
   "items": [
     {
       "id": "spade-integrity-2024",
@@ -31,8 +31,93 @@
         "A contribué à la qualité des releases et à la rapidité d'implémentation via des pratiques d'équipe structurées et une bonne discipline Git."
       ],
       "bullets": ["GitLab", "Git", "React Native", "Intégration API", "Livraison produit", "Performance", "Collaboration équipe"],
-      "image": "assets/bookbeo.svg",
+      "image": "assets/p7.jpg",
       "sortOrder": 20
+    },
+    {
+      "id": "st-2022",
+      "role": "Membre d'équipe projet sécurité",
+      "org": "STMicroelectronics",
+      "dates": "Sep 2022 – Mar 2023",
+      "location": "Le Mans, France · Sur site",
+      "summary": [
+        "A travaillé sur l'implémentation de l'API PSA Crypto dans un contexte embarqué avec fortes contraintes sécurité.",
+        "A livré du code C avec des workflows Git structurés et des outils de validation sous Linux."
+      ],
+      "bullets": ["C", "PSA Crypto", "Sécurité embarquée", "Outils Linux"],
+      "image": "assets/p6.jpg",
+      "sortOrder": 30
+    },
+    {
+      "id": "falcon-2022",
+      "role": "Expérience Développement Mobile",
+      "org": "Falcon Inspection & Services",
+      "dates": "Jun 2022 – Aug 2022",
+      "location": "Tunis, Tunisie · Sur site",
+      "summary": [
+        "A construit un workflow mobile pour enregistrer et valider plusieurs tests industriels sur le terrain.",
+        "A implémenté des modèles de données par test et des règles de validation pour améliorer la cohérence des rapports."
+      ],
+      "bullets": ["Flutter", "Node.js", "Flux de validation", "Docker"],
+      "image": "assets/p5.jpg",
+      "sortOrder": 40
+    },
+    {
+      "id": "dall-2021",
+      "role": "Monitoring météo et stockage des données",
+      "org": "DigiArtLivingLab",
+      "dates": "Jul 2021 – Aug 2021",
+      "location": "Tunis, Tunisie · Sur site",
+      "summary": [
+        "A automatisé la collecte et le stockage de données météo pour un suivi continu.",
+        "A développé des modules UI et des intégrations API avec parsing JSON et persistance backend."
+      ],
+      "bullets": ["Java", "JavaFX", "Intégration API", "Automatisation"],
+      "image": "assets/p1.jpg",
+      "sortOrder": 50
+    },
+    {
+      "id": "sagemcom-2020",
+      "role": "Validation de composants électroniques",
+      "org": "SAGEMCOM",
+      "dates": "Feb 2020 – May 2020",
+      "location": "Tunis, Tunisie · Sur site",
+      "summary": [
+        "A développé des workflows LabView pour la détection et la qualification de composants électroniques.",
+        "A entraîné un modèle CNN et déployé une version légère d'inférence sur Raspberry Pi."
+      ],
+      "bullets": ["LabView", "CNN", "TensorFlow Lite", "Raspberry Pi", "SolidWorks"],
+      "image": "assets/p2.jpg",
+      "proofUrl": "https://drive.google.com/file/d/1HEhe-tPGshCTeTujwacxx_Wc-qHJIF3j/view",
+      "sortOrder": 60
+    },
+    {
+      "id": "dall-2019",
+      "role": "Station IoT + applications mobiles",
+      "org": "DigiArtLivingLab",
+      "dates": "Jan 2019 – Feb 2019",
+      "location": "Tunis, Tunisie · Sur site",
+      "summary": [
+        "A développé des solutions de capteurs Arduino avec communication Bluetooth.",
+        "A créé des applications Android compagnon avec synchronisation live des données."
+      ],
+      "bullets": ["Arduino", "Bluetooth", "MIT App Inventor", "Firebase"],
+      "image": "assets/p3.jpg",
+      "sortOrder": 70
+    },
+    {
+      "id": "dall-2018",
+      "role": "Développement de jeu éducatif",
+      "org": "DigiArtLivingLab",
+      "dates": "Jan 2018 – Feb 2018",
+      "location": "Nabeul, Tunisie · Sur site",
+      "summary": [
+        "A réalisé un jeu éducatif Unity axé sur l'apprentissage des directions pour enfants.",
+        "A coordonné assets, pacing des niveaux et polish gameplay avec une petite équipe."
+      ],
+      "bullets": ["Unity", "Gameplay design", "Collaboration équipe", "Bases C++"],
+      "image": "assets/p4.jpg",
+      "sortOrder": 80
     }
   ]
 }
