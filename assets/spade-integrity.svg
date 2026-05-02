@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" role="img" aria-label="Spade Integrity logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e45a5a"/>
+      <stop offset="100%" stop-color="#ff9a6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="200" rx="24" fill="url(#bg)"/>
+  <g transform="translate(56 38)">
+    <path d="M58 0C91 0 118 26 118 58C118 83 102 105 79 113L79 130L37 130L37 113C14 105 -2 83 -2 58C-2 26 25 0 58 0Z" fill="url(#accent)"/>
+    <rect x="50" y="122" width="16" height="26" rx="6" fill="#f5f5f5" opacity="0.92"/>
+  </g>
+  <text x="220" y="92" fill="#f9fafb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.8">Spade Integrity</text>
+  <text x="220" y="130" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">IoT and Systems Engineering</text>
+</svg>
