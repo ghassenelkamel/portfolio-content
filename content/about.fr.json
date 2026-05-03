@@ -2,33 +2,33 @@
   "schemaVersion": 1,
   "updatedAt": "2026-05-02T18:00:00Z",
   "headline": "Ghassen El Kamel",
-  "subtitle": "Ingénieur IoT & Systèmes · Backend · Infrastructure",
+  "subtitle": "Ingénieur IoT & Systèmes · Back-end · Infrastructure",
   "summary": [
     "Je suis ingénieur IoT et systèmes logiciels, passionné par la conception d'infrastructures sécurisées, scalables et performantes pour les dispositifs connectés.",
     "Mon travail se situe à l'intersection des systèmes embarqués, du développement backend et de la sécurité réseau, pour transformer les contraintes terrain en solutions fiables."
   ],
   "keywords": [
     "Architecture IoT",
-    "Backend Go",
+    "Back-end Go",
     "Linux embarqué",
     "MQTT / TLS",
     "Réseaux VPN",
     "APIs d'automatisation"
   ],
   "specialties": [
-    "Conception d'architectures IoT avec flux de données sécurisés du device au cloud",
-    "Développement de services backend en Go pour l'automatisation, le monitoring et le traitement des données",
+    "Conception d'architectures IoT avec flux de données sécurisés de l'appareil au cloud",
+    "Développement de services back-end en Go pour l'automatisation, la supervision et le traitement des données",
     "Intégration de couches de communication sécurisées — VPN, MQTTS et TLS",
     "Optimisation des workflows et des systèmes pour améliorer la disponibilité et l'efficacité",
-    "Création d'outils et de dashboards orientés valeur métier"
+    "Création d'outils et de tableaux de bord orientés valeur métier"
   ],
   "currently": [
-    "Construction de backbones IoT en Go et d'APIs sécurisées pour l'échange de données",
+    "Conception de socles IoT en Go et d'APIs sécurisées pour l'échange de données",
     "Mise en place d'infrastructures VPN et MQTTS pour les communications distantes",
-    "Conception de dashboards modulaires pour le monitoring en temps réel"
+    "Conception de tableaux de bord modulaires pour la supervision en temps réel"
   ],
   "goals": [
-    "Contribuer à des projets open-source orientés infrastructure et IoT",
+    "Contribuer à des projets open source orientés infrastructure et IoT",
     "Évoluer vers un niveau architecte en backend et ingénierie plateforme",
     "Continuer à renforcer la sécurité, la scalabilité et la maintenabilité des systèmes en production"
   ],
