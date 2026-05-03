@@ -3,7 +3,7 @@
   "updatedAt": "2026-05-02T18:00:00Z",
   "eyebrow": "Expérience",
   "title": "Parcours Professionnel",
-  "description": "Sélectionnez une expérience pour explorer le scope, l'impact et les outils utilisés.",
+  "description": "Sélectionnez une expérience pour explorer le périmètre, l'impact et les outils utilisés.",
   "items": [
     {
       "id": "spade-integrity-2024",
@@ -38,7 +38,7 @@
       "id": "st-2022",
       "role": "Membre d'équipe projet sécurité",
       "org": "STMicroelectronics",
-      "dates": "Sep 2022 – Mar 2023",
+      "dates": "Sept 2022 - Mars 2023",
       "location": "Le Mans, France · Sur site",
       "summary": [
         "Implémentation de l'API PSA Crypto dans un contexte embarqué avec de fortes contraintes de sécurité.",
@@ -52,7 +52,7 @@
       "id": "falcon-2022",
       "role": "Expérience Développement Mobile",
       "org": "Falcon Inspection & Services",
-      "dates": "Jun 2022 – Aug 2022",
+      "dates": "Juin 2022 - Aout 2022",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
         "Conception d'un workflow mobile pour l'enregistrement et la validation de plusieurs tests industriels sur le terrain.",
@@ -66,7 +66,7 @@
       "id": "dall-2021",
       "role": "Monitoring météo et stockage des données",
       "org": "DigiArtLivingLab",
-      "dates": "Jul 2021 – Aug 2021",
+      "dates": "Juil 2021 - Aout 2021",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
         "Automatisation de la collecte et du stockage de données météo pour un suivi continu.",
@@ -80,7 +80,7 @@
       "id": "sagemcom-2020",
       "role": "Validation de composants électroniques",
       "org": "SAGEMCOM",
-      "dates": "Feb 2020 – May 2020",
+      "dates": "Fev 2020 - Mai 2020",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
         "Développement de workflows LabView pour la détection et la qualification de composants électroniques.",
@@ -95,7 +95,7 @@
       "id": "dall-2019",
       "role": "Station IoT + applications mobiles",
       "org": "DigiArtLivingLab",
-      "dates": "Jan 2019 – Feb 2019",
+      "dates": "Janv 2019 - Fev 2019",
       "location": "Tunis, Tunisie · Sur site",
       "summary": [
         "Développement de solutions de capteurs Arduino avec communication Bluetooth.",
@@ -109,7 +109,7 @@
       "id": "dall-2018",
       "role": "Développement de jeu éducatif",
       "org": "DigiArtLivingLab",
-      "dates": "Jan 2018 – Feb 2018",
+      "dates": "Janv 2018 - Fev 2018",
       "location": "Nabeul, Tunisie · Sur site",
       "summary": [
         "Réalisation d'un jeu éducatif Unity axé sur l'apprentissage des directions pour enfants.",
