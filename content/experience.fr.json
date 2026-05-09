@@ -18,6 +18,7 @@
       ],
       "bullets": ["Go", "Plateforme IoT", "Récupération sécurisée", "Intégration NAS", "Synchronisation des alarmes", "Monitoring", "Infrastructure"],
       "image": "assets/spade-integrity.svg",
+      "orgUrl": "https://spade-integrity.com/",
       "sortOrder": 10
     },
     {
@@ -32,11 +33,12 @@
       ],
       "bullets": ["GitLab", "Git", "React Native", "Intégration API", "Livraison produit", "Performance", "Collaboration équipe"],
       "image": "assets/p7.jpg",
+      "orgUrl": "https://www.bookbeo.com/fr",
       "sortOrder": 20
     },
     {
       "id": "st-2022",
-      "role": "Membre d'équipe projet sécurité (Stage)",
+      "role": "Membre d'équipe projet sécurité (Projet d'étude)",
       "org": "STMicroelectronics",
       "dates": "Sept 2022 - Mars 2023",
       "location": "Le Mans, France · Sur site",
@@ -46,6 +48,7 @@
       ],
       "bullets": ["C", "PSA Crypto", "Sécurité embarquée", "Outils Linux"],
       "image": "assets/p6.jpg",
+      "orgUrl": "https://www.st.com",
       "sortOrder": 30
     },
     {
@@ -60,6 +63,7 @@
       ],
       "bullets": ["Flutter", "Node.js", "Flux de validation", "Docker"],
       "image": "assets/p5.jpg",
+      "orgUrl": "https://www.falconinspec.com/",
       "sortOrder": 40
     },
     {
@@ -74,6 +78,7 @@
       ],
       "bullets": ["Java", "JavaFX", "Intégration API", "Automatisation"],
       "image": "assets/p1.jpg",
+      "orgUrl": "https://www.dall4all.org/",
       "sortOrder": 50
     },
     {
@@ -88,6 +93,7 @@
       ],
       "bullets": ["LabView", "CNN", "TensorFlow Lite", "Raspberry Pi", "SolidWorks"],
       "image": "assets/p2.jpg",
+      "orgUrl": "https://sagemcom.com",
       "proofUrl": "https://drive.google.com/file/d/1HEhe-tPGshCTeTujwacxx_Wc-qHJIF3j/view",
       "sortOrder": 60
     },
@@ -103,6 +109,7 @@
       ],
       "bullets": ["Arduino", "Bluetooth", "MIT App Inventor", "Firebase"],
       "image": "assets/p3.jpg",
+      "orgUrl": "https://www.dall4all.org/",
       "sortOrder": 70
     },
     {
@@ -117,6 +124,7 @@
       ],
       "bullets": ["Unity", "Gameplay design", "Collaboration équipe", "Bases C++"],
       "image": "assets/p4.jpg",
+      "orgUrl": "https://www.dall4all.org/",
       "sortOrder": 80
     }
   ]
