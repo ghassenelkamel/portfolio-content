@@ -47,6 +47,10 @@
             "type": "string",
             "format": "uri"
           },
+          "orgUrl": {
+            "type": "string",
+            "format": "uri"
+          },
           "featured": { "type": "boolean" },
           "sortOrder": { "type": "integer", "minimum": 0 }
         }
